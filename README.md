@@ -1,1 +1,2 @@
-# Web-Development-Bootcamp-2024-Dr.-Angela-Yu
+# Web-Development-Bootcamp-2024
+A Udemy Course by Instructor Angela Yu.
